@@ -60,8 +60,6 @@ Ops Notes
 
     Designed to accelerate Day 3+ auth testing (ADMIN → TOKEN → LOGIN → RESET).
 
-    Inspired by The Business of Hacking (productize workflows) and WAHH (auth/session chapters).
-
 License
 
 MIT
