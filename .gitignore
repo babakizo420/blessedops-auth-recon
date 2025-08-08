@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Tool outputs
+auth_tags/
+auth_meta/
+auth_forms/
+auth_hits/
+

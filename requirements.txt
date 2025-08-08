@@ -1,0 +1,6 @@
+```txt
+# v1 uses only Python stdlib.
+# Future:
+# requests
+# httpx
+# beautifulsoup4

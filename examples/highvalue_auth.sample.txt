@@ -1,0 +1,7 @@
+https://fdj.example.com/login
+https://fdj.example.com/connexion
+https://fdj.example.com/bo/
+https://fdj.example.com/tableau-de-bord
+https://fdj.example.com/password/reset?token=xyz
+https://fdj.example.com/api/token/refresh
+https://fdj.example.com/oauth/callback?code=abc&state=123
